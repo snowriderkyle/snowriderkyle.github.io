@@ -1,0 +1,34 @@
+body {
+
+	background-image: url("http://www.hdwallpapera.com/wp-content/uploads/wallpaper/amazingpict/wallpapers-011//Basic%20Pattern%20Desktop%20Background.jpg");
+	margin: 2px;
+	}
+h1 { color: white;
+	 font : italic;
+	 font : bold;
+	 font-size: 50px;
+	}
+
+h2 {
+	color: white;
+	font : italic;
+	font : bold;
+	font-size: 35px;
+}
+p  {
+	color: black;
+	font : italic;
+	font-size: 25px;
+
+}
+
+p.color {
+	color: white;
+	font: italic;
+}
+li.bold {
+	color: white;
+	font: italic;
+	font: bold;
+	font-size: 40px;
+
